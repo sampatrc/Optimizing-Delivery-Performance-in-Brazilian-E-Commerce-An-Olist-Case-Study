@@ -23,9 +23,10 @@ SQL-based analysis of Brazilian e-commerce deliveries using Olist dataset. Built
    - Detected worst-performing seller × lane pairs with high late rates and sufficient order volumes to prioritize corrective actions.  
 
 ## 📂 Repository Structure  
+- `README.md` – Project documentation  
 - `business-case-solution.sql` – SQL scripts for building views and analyses  
 - `table-create-commands.sql` – Table creation commands  
-- `README.md` – Project documentation  
+
 
 ## 🚀 Insights & Impact  
 - Separated **seller-side vs courier-side** delay contributors  
