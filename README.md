@@ -24,7 +24,7 @@ SQL-based analysis of Brazilian e-commerce deliveries using Olist dataset. Built
 
 ## 📂 Repository Structure  
 - `business-case-solution.sql` – SQL scripts for building views and analyses  
-- `dataset-link---create-commands.sql` – Table creation commands  
+- `table-create-commands.sql` – Table creation commands  
 - `README.md` – Project documentation  
 
 ## 🚀 Insights & Impact  
